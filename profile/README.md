@@ -20,9 +20,5 @@ Este proyecto busca:
 - [`qf2-material`](https://github.com/ORG/qf2-material): guías teóricas y de laboratorio de Química Física II.
 - [`intro-programacion`](https://github.com/ORG/intro-programacion): recursos para el taller de programación.
 
----
 ### Contribuciones
 Si sos docente y querés participar, ¡te invitamos a sumarte! Podés crear issues, hacer forks o contactar a quienes administran este espacio.
-
-### Licencia
-El contenido está licenciado bajo [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), salvo que se indique lo contrario en los repos individuales.
