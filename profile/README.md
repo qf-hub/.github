@@ -15,7 +15,7 @@ Este proyecto busca:
 - Asegurar la **disponibilidad y trazabilidad** de los materiales en LaTeX.
 - Facilitar la **actualización y revisión** continua de guías, prácticos y protocolos.
 
-### 📂 Repositorios destacados
+### Repositorios destacados
 - [`qf1-material`](https://github.com/qf-hub/qf1-material): guías teóricas y de laboratorio de Química Física I.
 - [`qf2-material`](https://github.com/qf-hub/qf2-material): guías teóricas y de laboratorio de Química Física II.
 - [`intro-programacion`](https://github.com/qf-hub/intro-programacion): recursos para el taller de programación.
