@@ -16,9 +16,9 @@ Este proyecto busca:
 - Facilitar la **actualización y revisión** continua de guías, prácticos y protocolos.
 
 ### 📂 Repositorios destacados
-- [`qf1-material`](https://github.com/ORG/qf1-material): guías teóricas y de laboratorio de Química Física I.
-- [`qf2-material`](https://github.com/ORG/qf2-material): guías teóricas y de laboratorio de Química Física II.
-- [`intro-programacion`](https://github.com/ORG/intro-programacion): recursos para el taller de programación.
+- [`qf1-material`](https://github.com/qf-hub/qf1-material): guías teóricas y de laboratorio de Química Física I.
+- [`qf2-material`](https://github.com/qf-hub/qf2-material): guías teóricas y de laboratorio de Química Física II.
+- [`intro-programacion`](https://github.com/qf-hub/intro-programacion): recursos para el taller de programación.
 
 ### Contribuciones
 Si sos docente y querés participar, ¡te invitamos a sumarte! Podés crear issues, hacer forks o contactar a quienes administran este espacio.
