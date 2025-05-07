@@ -1,4 +1,4 @@
-# 🧪 Material Didáctico de Química Física – FCEN
+# Material Didáctico de Química Física – FCEN
 
 Este es un espacio colaborativo impulsado por docentes de Química Física de la Facultad de Ciencias Exactas y Naturales (UBA), como una **iniciativa independiente y abierta** orientada a compartir y mantener materiales educativos de manera organizada y accesible.
 
